@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Anshika
+### *First-Year Computer Science Engineering Student*
+> **Who's Figuring Things Out**
 
-<!--
-**anshikasah123/anshikasah123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Computer Science Engineering student exploring the world of technology with a focus on Backend Development, AI/ML, and problem solving. I'm currently building my fundamentals in programming and Data Structures while learning how to turn ideas into practical solutions.
 
-Here are some ideas to get you started:
+### I believe in learning by doing- experimenting, building, making mistakes, and improving along the way. Through GDG and personal projects, I'm looking forward to challenge myself, collaborating with others, and growing into developer who can build things that actually matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀Currently
+
+### -🍀Learning programming and Data Structures
+### -💻Explorinf Backend Development
+### -🧩Improving problem-solving skills
+### -⚡Participation in GDG
+### -🎯Building Projects and learning by doing
+
+> *Still learning. Still building. Always curious*
